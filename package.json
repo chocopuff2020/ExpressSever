@@ -1,0 +1,14 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "Building a simple EXPRESS server then deploy the app to Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michelle Dai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.2"
+  }
+}
